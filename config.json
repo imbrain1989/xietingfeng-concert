@@ -1,0 +1,33 @@
+{
+  "skill": {
+    "name": "xietingfeng-concert",
+    "description": "谢霆锋2026成都进化演唱会开票搜索技能",
+    "version": "1.0.0",
+    "author": "OpenClaw",
+    "enabled": true
+  },
+  "search": {
+    "keyword": "谢霆锋2026成都进化演唱会开票时间",
+    "url": "https://www.baidu.com",
+    "maxRetries": 3,
+    "retryDelay": 2000,
+    "timeout": 30000
+  },
+  "schedule": {
+    "enabled": true,
+    "time": "12:00",
+    "interval": "daily",
+    "timezone": "Asia/Shanghai"
+  },
+  "delivery": {
+    "channel": "feishu",
+    "target": "ou_3b363dce9bb583f7ec9f822e2b7a7880",
+    "mode": "announce",
+    "format": "markdown"
+  },
+  "logging": {
+    "enabled": true,
+    "level": "info",
+    "retention": 30
+  }
+}
