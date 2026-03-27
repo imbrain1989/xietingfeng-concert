@@ -75,7 +75,7 @@ description: |
   "delivery": {
     "mode": "announce",
     "channel": "feishu",
-    "to": "ou_3b363dce9bb583f7ec9f822e2b7a7880"
+    "to": "ou_xxx"
   },
   "wakeMode": "now",
   "deleteAfterRun": false,
@@ -141,7 +141,7 @@ description: |
 |------|------|--------|
 | 执行时间 | 每天执行的具体时间 | 12:00 |
 | 搜索关键词 | 演唱会搜索关键词 | 谢霆锋2026成都进化演唱会开票时间 |
-| 推送目标 | 飞书推送的目标用户ID | ou_3b363dce9bb583f7ec9f822e2b7a7880 |
+| 推送目标 | 飞书推送的目标用户ID | ou_xxx |
 | 重试次数 | 搜索失败时的重试次数 | 3 |
 
 ---
