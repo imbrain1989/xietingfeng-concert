@@ -21,7 +21,7 @@
   },
   "delivery": {
     "channel": "feishu",
-    "target": "ou_3b363dce9bb583f7ec9f822e2b7a7880",
+    "target": "ou_xxx",
     "mode": "announce",
     "format": "markdown"
   },
